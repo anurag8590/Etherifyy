@@ -1,1 +1,3 @@
 # Etherifyy
+
+# React + Vite , Flask 
